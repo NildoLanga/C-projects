@@ -1,4 +1,4 @@
-[MenuEmC.cpp](https://github.com/user-attachments/files/26546582/MenuEmC.cpp)
+
 /* -------------------------------------------------------------
  * menu.c – Programa exemplo que apresenta um menu de opções
  * -------------------------------------------------------------
